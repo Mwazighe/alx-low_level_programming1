@@ -2,8 +2,8 @@
 
 
 /**
- * print_alphabet _ Make the alphabet
- * Return: void
+ *print_alphabet _ Make the alphabet
+ *Return: void
  */
 
 void print_alphabet(void)
